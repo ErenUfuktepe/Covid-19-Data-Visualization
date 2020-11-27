@@ -19,6 +19,7 @@ In this repository, I want to create some visuals using different datasets and s
 ### Technologies
 
 * R programing language
+  * To add R to Jupyter Notebook use this command line: <b> conda install -c r r-irkernel </b>
 * ggplot2
 * RColorBrewer
 * dplyr
